@@ -1,7 +1,6 @@
 ## Hi there 👋
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6776242e70129741a8a6bb47?variant=dark" alt="roadmap.sh"/></a>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/6776242e70129741a8a6bb47?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6776242e70129741a8a6bb47?variant=dark" alt="roadmap.sh"/></a>
 
 <!--
 **adiancodes/adiancodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
