@@ -1,6 +1,6 @@
 ## Hi there
 
-//roadmap.sh embeded link
+roadmap.sh embeded link
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6776242e70129741a8a6bb47?variant=dark" alt="roadmap.sh"/></a>
 
 <!--
