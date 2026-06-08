@@ -84,6 +84,7 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 **Tools:** Git • Spring Security • Docker basics • ProcessBuilder
 
 **Concepts:** Data Structures & Algorithms • OOP • Design Patterns • Microservices thinking
+
 ---
 
 ## Currently Learning
@@ -91,11 +92,9 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 - **RAG systems** — semantic search, vector databases, prompt engineering
 - **LLM production patterns** — API integration, cost optimization, fallback strategies
 - **Spring Boot deep dive** — cloud deployment, performance tuning
-- 
 ---
 ## GitHub Summary
 [![Aditya's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adiancodes&theme=dark)](https://github.com/adiancodes)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/adiancodes?theme=dark&font=Syne&ext=activity)](https://leetcode.com/adiancodes/)
 ---
 
 ## Let's Connect
