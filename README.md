@@ -145,4 +145,4 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 ---
 ## Achievements
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=adiancodes&theme=default&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies][(https://github-profile-trophy.vercel.app/?username=adiancodes&theme=default&row=1&column=7)](https://github-profile-trophy-orcin-eta.vercel.app/?username=adiancodes)]
