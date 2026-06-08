@@ -1,4 +1,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adiancodes.adiancodes)
+<a href="https://github.com/adiancodes">
+  <img alt="Aditya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adiancodes&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
+</a>
 # Hey, I'm Aditya 👋
 
 I'm a student learning and building AI-powered systems. I code in Java, and I'm obsessed with integrating LLMs and RAG into real applications.
@@ -14,10 +17,6 @@ I build backend systems, from REST APIs to real-time code execution to AI-powere
 Right now I'm diving deep into **Retrieval-Augmented Generation (RAG)**, LLM integrations, and how to make AI systems production-ready.
 
 ---
-
-<a href="https://github.com/adiancodes">
-  <img alt="Aditya's GitHub Stats" src="https://github-readme-stats.vercel.app/api username=adiancodes&show_icons=true&theme=default&include_all_commits=true&count_private=false" />
-</a>
 
 ## My Best Projects
 
