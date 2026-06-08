@@ -70,18 +70,6 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 
 ## Skills & Stack
 
-**Languages:** Java • Python • SQL
-
-**Backend:** Spring Boot • REST APIs • PostgreSQL • JWT Authentication
-
-**AI/ML:** LLM APIs (Google Gemini, OpenAI) • RAG Systems • FAISS • Embeddings
-
-**Tools:** Git • Spring Security • Docker basics • ProcessBuilder
-
-**Concepts:** Data Structures & Algorithms • OOP • Design Patterns • Microservices thinking
-
-## Tech Stack
-
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -100,6 +88,8 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Concepts:** Data Structures & Algorithms • OOP • Design Patterns • Microservices thinking
 
 ---
 
