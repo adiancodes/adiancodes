@@ -101,6 +101,7 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adiancodes&theme=dark&ring=blue&currStreakNum=1D9E75)](https://git.io/streak-stats)
 [![Aditya's Metrics](https://metrics.lecoq.io/adiancodes)](https://github.com/adiancodes)
+
 ---
 
 ## Currently Learning
