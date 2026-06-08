@@ -57,6 +57,55 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 
 *Internship project @Infosys Springboard (Oct–Dec 2025)*
 
+ ## 🎯 Featured Projects
+
+<table>
+<tr>
+  <td width="50%" valign="top">
+
+### 🤖 medBot
+**RAG-based Medical Assistant**
+
+Semantic search + Gemini API. Answers medical questions by searching uploaded PDFs. This is how production RAG works.
+
+[View Code](https://github.com/adiancodes/medBot) • [Explore](https://github.com/adiancodes/medBot)
+
+  </td>
+  <td width="50%" valign="top">
+
+### 📝 Sumeazy
+**AI-Powered Summarizer**
+
+Summarizes news + YouTube videos. Multi-language support. AssemblyAI + NLTK backend. Production-ready.
+
+[View Code](https://github.com/adiancodes/sumeazylite) • [Try It](https://github.com/adiancodes/sumeazylite)
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+### ⚡ Code Executor
+**Real-time Code Runner**
+
+Spring Boot backend that executes Python safely. ProcessBuilder isolation. 10-sec timeout. Clean layered architecture.
+
+[View Code](https://github.com/adiancodes/online-code) • [Details](https://github.com/adiancodes/online-code)
+
+  </td>
+  <td width="50%" valign="top">
+
+### 📦 SmartShelfX
+**AI Inventory Forecasting**
+
+Multi-warehouse inventory system. JWT auth, role-based dashboards, demand forecasting. Infosys internship project.
+
+[View Code](https://github.com/adiancodes/smartinventory) • [Docs](https://github.com/adiancodes/smartinventory)
+
+  </td>
+</tr>
+</table>
+
 ---
 ##  My Streak
 
