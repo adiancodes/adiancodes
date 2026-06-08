@@ -1,3 +1,4 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adiancodes.adiancodes)
 # Hey, I'm Aditya 👋
 
 I'm a student learning and building AI-powered systems. I code in Java, and I'm obsessed with integrating LLMs and RAG into real applications.
