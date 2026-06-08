@@ -1,6 +1,6 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adiancodes.adiancodes)
-[![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adiancodes&show_icons=true&theme=default&include_all_commits=true&count_private=true)](https://github.com/adiancodes)
-[![Aditya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adiancodes&layout=compact&theme=default)](https://github.com/adiancodes)
+[![Aditya's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adiancodes&theme=default)](https://github.com/adiancodes)
+[![Aditya's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adiancodes&theme=default)](https://github.com/adiancodes)
 
 # Hey, I'm Aditya 👋
 
