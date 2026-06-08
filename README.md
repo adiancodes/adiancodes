@@ -143,6 +143,3 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 **Want to talk tech?** Reach out. I love discussing system design, LLM integrations, and how to ship code that actually works in production.
 
 ---
-## Achievements
-
-[![Trophies][(https://github-profile-trophy.vercel.app/?username=adiancodes&theme=default&row=1&column=7)](https://github-profile-trophy-orcin-eta.vercel.app/?username=adiancodes)]
