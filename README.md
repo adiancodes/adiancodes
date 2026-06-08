@@ -5,7 +5,6 @@ I'm a student learning and building AI-powered systems. I code in Java, and I'm 
 Currently: final year CS student @MIT Bengaluru (2027) | Preparing for SDE roles focusing on GenAI & backend systems
 
 ---
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6776242e70129741a8a6bb47?variant=dark" alt="roadmap.sh"/></a>
 
 ## What I Do
 
