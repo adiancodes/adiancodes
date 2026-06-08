@@ -1,6 +1,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adiancodes.adiancodes)
 [![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adiancodes&show_icons=true&theme=default&include_all_commits=true&count_private=true)](https://github.com/adiancodes)
 [![Aditya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adiancodes&layout=compact&theme=default)](https://github.com/adiancodes)
+
 # Hey, I'm Aditya 👋
 
 I'm a student learning and building AI-powered systems. I code in Java, and I'm obsessed with integrating LLMs and RAG into real applications.
@@ -23,7 +24,7 @@ Right now I'm diving deep into **Retrieval-Augmented Generation (RAG)**, LLM int
 <tr>
   <td width="50%" valign="top">
 
-###  medBot
+### medBot
 **RAG-based Medical Assistant**
 
 Python | FAISS | Google Gemini | Sentence-Transformers
@@ -35,7 +36,7 @@ Semantic search + Gemini API. Answers medical questions by searching uploaded PD
   </td>
   <td width="50%" valign="top">
 
-###  Sumeazy
+### Sumeazy
 **AI-Powered Summarizer**
 
 Flask | AssemblyAI | NLTK | MongoDB
@@ -48,7 +49,7 @@ Web app that summarizes news articles and YouTube videos into bite-sized summari
 <tr>
   <td width="50%" valign="top">
 
-###  Code Executor
+### Code Executor
 **Real-time Code Runner**
 
 Spring Boot | Java ProcessBuilder | REST APIs
@@ -74,7 +75,7 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 </table>
 
 ---
-##  My Streak
+## My Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adiancodes&theme=dark&ring=blue&currStreakNum=1D9E75)](https://git.io/streak-stats)
 
@@ -119,11 +120,11 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 
 ## Let's Connect
 
- **Email:** contactaditya013@gmail.com
+**Email:** contactaditya013@gmail.com
 
- **LinkedIn:** [linkedin.com/in/contactadian](https://linkedin.com/in/contactadian/)
+**LinkedIn:** [linkedin.com/in/contactadian](https://linkedin.com/in/contactadian/)
 
- **Open to:** Backend SDE roles, GenAI internships, building RAG systems, or just nerding out about LLMs
+**Open to:** Backend SDE roles, GenAI internships, building RAG systems, or just nerding out about LLMs
 
 ---
 
