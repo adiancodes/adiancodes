@@ -1,4 +1,4 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adiancodes.adiancodes) [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)](https://github.com/PiyushSuthar/github-readme-quotes)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adiancodes.adiancodes) 
 
 # Hey, I'm Aditya 👋
 
@@ -109,3 +109,5 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 ---
 
 **Want to talk tech?** Reach out. I love discussing system design, LLM integrations, and how to ship code that actually works in production.
+
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/PiyushSuthar/github-readme-quotes)
