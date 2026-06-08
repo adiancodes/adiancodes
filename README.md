@@ -23,33 +23,6 @@ Right now I'm diving deep into **Retrieval-Augmented Generation (RAG)**, LLM int
 
 ## My Best Projects
 
-### **medBot** — RAG-based Medical Assistant
-Python | FAISS | Google Gemini | Sentence-Transformers
-
-An AI chatbot that answers medical questions by searching through uploaded PDFs. Built a semantic search pipeline using vector embeddings and integrated Gemini to synthesize grounded answers. This is how RAG actually works.
-
-[Code](https://github.com/adiancodes/medBot)
-
----
-
-### **Sumeazy** — AI-Powered Article & YouTube Summarizer
-Flask | AssemblyAI | NLTK | MongoDB
-
-Web app that summarizes news articles and YouTube videos into bite-sized summaries. Handles multi-language support, multi-modal input (text + audio), and stores summarization history. Built the backend with Flask and PyMongo.
-
-[Code](https://github.com/adiancodes/sumeazylite)
-
----
-
-### **Online Code Execution Platform** — Real-time Code Runner
-Spring Boot | Java ProcessBuilder | REST APIs
-
-A backend service that safely executes Python code server-side and returns output in real-time. Handles process isolation, stdout/stderr capture, and timeout enforcement. Designed with clean layered architecture (Controller → Service → DTO → Model).
-
-[Code](https://github.com/adiancodes/online-code)
-
----
-
 ### **SmartShelfX** — AI-Based Inventory Forecasting System
 Spring Boot 3 | PostgreSQL | JWT Auth | Spring Security
 
@@ -63,44 +36,51 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 <tr>
   <td width="50%" valign="top">
 
-### 🤖 medBot
+###  medBot
 **RAG-based Medical Assistant**
+
+Python | FAISS | Google Gemini | Sentence-Transformers
 
 Semantic search + Gemini API. Answers medical questions by searching uploaded PDFs. This is how production RAG works.
 
-[View Code](https://github.com/adiancodes/medBot) • [Explore](https://github.com/adiancodes/medBot)
+[View Code](https://github.com/adiancodes/medBot)
 
   </td>
   <td width="50%" valign="top">
 
-### 📝 Sumeazy
+###  Sumeazy
 **AI-Powered Summarizer**
 
-Summarizes news + YouTube videos. Multi-language support. AssemblyAI + NLTK backend. Production-ready.
+Flask | AssemblyAI | NLTK | MongoDB
 
-[View Code](https://github.com/adiancodes/sumeazylite) • [Try It](https://github.com/adiancodes/sumeazylite)
+Web app that summarizes news articles and YouTube videos into bite-sized summaries. Handles multi-language support, multi-modal input (text + audio), and stores summarization history. Built the backend with Flask and PyMongo.
 
+[View Code](https://github.com/adiancodes/sumeazylite)
   </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
 
-### ⚡ Code Executor
+###  Code Executor
 **Real-time Code Runner**
 
-Spring Boot backend that executes Python safely. ProcessBuilder isolation. 10-sec timeout. Clean layered architecture.
+Spring Boot | Java ProcessBuilder | REST APIs
 
-[View Code](https://github.com/adiancodes/online-code) • [Details](https://github.com/adiancodes/online-code)
+A backend service that safely executes Python code server-side and returns output in real-time. Handles process isolation, stdout/stderr capture, and timeout enforcement. Designed with clean layered architecture (Controller → Service → DTO → Model).
+
+[Details](https://github.com/adiancodes/online-code)
 
   </td>
   <td width="50%" valign="top">
 
-### 📦 SmartShelfX
-**AI Inventory Forecasting**
+### SmartShelfX
+**Inventory Forecasting System**
 
-Multi-warehouse inventory system. JWT auth, role-based dashboards, demand forecasting. Infosys internship project.
+Spring Boot 3 | PostgreSQL | JWT Auth | Spring Security
 
-[View Code](https://github.com/adiancodes/smartinventory) • [Docs](https://github.com/adiancodes/smartinventory)
+Multi-warehouse inventory platform with AI-powered demand forecasting and auto-restock. Built the backend handling role-based authentication, analytics aggregations, and vendor notifications. Designed RESTful endpoints that powered an admin/manager dashboard.
+
+[Docs](https://github.com/adiancodes/smartinventory)
 
   </td>
 </tr>
