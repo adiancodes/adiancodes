@@ -110,3 +110,9 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 **Want to talk tech?** Reach out. I love discussing system design, LLM integrations, and how to ship code that actually works in production.
 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/PiyushSuthar/github-readme-quotes)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adiancodes/adiancodes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adiancodes/adiancodes/output/github-contribution-grid-snake.svg">
+  <img alt="Aditya's GitHub Snake Contribution Graph" src="https://raw.githubusercontent.com/adiancodes/adiancodes/output/github-contribution-grid-snake.svg">
+</picture>
