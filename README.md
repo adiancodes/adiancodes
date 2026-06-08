@@ -58,6 +58,9 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 *Internship project @Infosys Springboard (Oct–Dec 2025)*
 
 ---
+## 📊 My Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adiancodes&theme=default&ring=blue&currStreakNum=1D9E75)](https://git.io/streak-stats)
 
 ## Skills & Stack
 
