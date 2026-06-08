@@ -141,5 +141,3 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 ---
 
 **Want to talk tech?** Reach out. I love discussing system design, LLM integrations, and how to ship code that actually works in production.
-
----
