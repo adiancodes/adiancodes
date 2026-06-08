@@ -14,8 +14,8 @@ I build backend systems, from REST APIs to real-time code execution to AI-powere
 
 Right now I'm diving deep into **Retrieval-Augmented Generation (RAG)**, LLM integrations, and how to make AI systems production-ready.
 
----
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/PiyushSuthar/github-readme-quotes)
+---
 
 ## My Best Projects
 
