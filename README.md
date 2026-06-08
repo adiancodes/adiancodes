@@ -1,10 +1,6 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adiancodes.adiancodes)
-<a href="https://github.com/adiancodes">
-  <img alt="Aditya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adiancodes&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/adiancodes">
-  <img alt="Aditya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiancodes&layout=compact&theme=default" />
-</a>
+[![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adiancodes&show_icons=true&theme=default&include_all_commits=true&count_private=true)](https://github.com/adiancodes)
+[![Aditya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adiancodes&layout=compact&theme=default)](https://github.com/adiancodes)
 # Hey, I'm Aditya 👋
 
 I'm a student learning and building AI-powered systems. I code in Java, and I'm obsessed with integrating LLMs and RAG into real applications.
