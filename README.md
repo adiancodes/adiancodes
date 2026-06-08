@@ -8,7 +8,7 @@ Currently: final year CS student @MIT Bengaluru (2027) | Preparing for SDE roles
 
 ## What I Do
 
-I build **backend systems ** — from REST APIs to real-time code execution to AI-powered search. I care about clean architecture, solid design patterns, and actually understanding the code I ship (not just copy-pasting).
+I build backend systems, from REST APIs to real-time code execution to AI-powered search. I care about clean architecture, solid design patterns, and actually understanding the code I ship (not just copy-pasting).
 
 Right now I'm diving deep into **Retrieval-Augmented Generation (RAG)**, LLM integrations, and how to make AI systems production-ready.
 
