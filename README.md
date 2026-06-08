@@ -1,4 +1,4 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adiancodes.adiancodes)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adiancodes.adiancodes) [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)](https://github.com/PiyushSuthar/github-readme-quotes)
 
 # Hey, I'm Aditya 👋
 
@@ -75,33 +75,15 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 ---
 ## Skills & Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**Languages:** Java • Python • SQL
 
-### Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
+**Backend:** Spring Boot • REST APIs • PostgreSQL • JWT Authentication
 
-### AI/ML & Databases
-![LLMs](https://img.shields.io/badge/LLMs-9C27B0?style=for-the-badge&logo=openai&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-17A2B8?style=for-the-badge&logo=facebook&logoColor=white)
+**AI/ML:** LLM APIs (Google Gemini, OpenAI) • RAG Systems • FAISS • Embeddings
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Tools:** Git • Spring Security • Docker basics • ProcessBuilder
 
 **Concepts:** Data Structures & Algorithms • OOP • Design Patterns • Microservices thinking
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/adiancodes?theme=dark&font=Syne&ext=activity)](https://leetcode.com/adiancodes/)
-
----
-## GitHub Summary
-[![Aditya's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adiancodes&theme=dark)](https://github.com/adiancodes)
-
 ---
 
 ## Currently Learning
@@ -109,7 +91,11 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 - **RAG systems** — semantic search, vector databases, prompt engineering
 - **LLM production patterns** — API integration, cost optimization, fallback strategies
 - **Spring Boot deep dive** — cloud deployment, performance tuning
-
+- 
+---
+## GitHub Summary
+[![Aditya's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adiancodes&theme=dark)](https://github.com/adiancodes)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/adiancodes?theme=dark&font=Syne&ext=activity)](https://leetcode.com/adiancodes/)
 ---
 
 ## Let's Connect
