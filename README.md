@@ -23,15 +23,6 @@ Right now I'm diving deep into **Retrieval-Augmented Generation (RAG)**, LLM int
 
 ## My Best Projects
 
-### **SmartShelfX** — AI-Based Inventory Forecasting System
-Spring Boot 3 | PostgreSQL | JWT Auth | Spring Security
-
-Multi-warehouse inventory platform with AI-powered demand forecasting and auto-restock. Built the backend handling role-based authentication, analytics aggregations, and vendor notifications. Designed RESTful endpoints that powered an admin/manager dashboard.
-
-*Internship project @Infosys Springboard (Oct–Dec 2025)*
-
- ## 🎯 Featured Projects
-
 <table>
 <tr>
   <td width="50%" valign="top">
