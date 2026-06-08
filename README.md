@@ -64,6 +64,10 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 
 ---
 
+[![Aditya's Activity Graph](https://activity-graph.herokuapp.com/graph?username=adiancodes&theme=github&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## Skills & Stack
 
 **Languages:** Java • Python • SQL
@@ -75,6 +79,27 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 **Tools:** Git • Spring Security • Docker basics • ProcessBuilder
 
 **Concepts:** Data Structures & Algorithms • OOP • Design Patterns • Microservices thinking
+
+## Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### AI/ML & Databases
+![LLMs](https://img.shields.io/badge/LLMs-9C27B0?style=for-the-badge&logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-17A2B8?style=for-the-badge&logo=facebook&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
