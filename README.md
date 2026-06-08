@@ -1,7 +1,5 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adiancodes.adiancodes)
-[![Aditya's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adiancodes&theme=default)](https://github.com/adiancodes)
-[![Aditya's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adiancodes&theme=default)](https://github.com/adiancodes)
-[![Aditya's Metrics](https://metrics.lecoq.io/adiancodes)](https://github.com/adiancodes)
+
 # Hey, I'm Aditya 👋
 
 I'm a student learning and building AI-powered systems. I code in Java, and I'm obsessed with integrating LLMs and RAG into real applications.
@@ -102,11 +100,7 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 ## My Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adiancodes&theme=dark&ring=blue&currStreakNum=1D9E75)](https://git.io/streak-stats)
-
----
-
-[![Aditya's Activity Graph](https://activity-graph.herokuapp.com/graph?username=adiancodes&theme=github&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Aditya's Metrics](https://metrics.lecoq.io/adiancodes)](https://github.com/adiancodes)
 ---
 
 ## Currently Learning
