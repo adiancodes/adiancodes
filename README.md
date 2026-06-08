@@ -15,6 +15,7 @@ I build backend systems, from REST APIs to real-time code execution to AI-powere
 Right now I'm diving deep into **Retrieval-Augmented Generation (RAG)**, LLM integrations, and how to make AI systems production-ready.
 
 ---
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/PiyushSuthar/github-readme-quotes)
 
 ## My Best Projects
 
@@ -108,8 +109,6 @@ Multi-warehouse inventory platform with AI-powered demand forecasting and auto-r
 ---
 
 **Want to talk tech?** Reach out. I love discussing system design, LLM integrations, and how to ship code that actually works in production.
-
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/PiyushSuthar/github-readme-quotes)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adiancodes/adiancodes/output/github-contribution-grid-snake-dark.svg">
