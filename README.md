@@ -16,7 +16,6 @@ Right now I'm diving deep into **Retrieval-Augmented Generation (RAG)**, LLM int
 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/PiyushSuthar/github-readme-quotes)
 ---
-
 ## My Best Projects
 
 <table>
